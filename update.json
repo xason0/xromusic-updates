@@ -1,6 +1,6 @@
 {
-  "version_code": 1,
-  "version_name": "1.0",
-  "changelog": "Initial release.",
+  "version_code": 99,
+  "version_name": "1.1",
+  "changelog": "What's new in v1.1:\n\n• Neon wave visualizer on player screen\n• Tap any video for fullscreen playback with controls\n• Listening stats now track properly\n• Crash fix for background audio",
   "download_url": "https://github.com/xason0/xromusic-updates/releases/latest"
 }
