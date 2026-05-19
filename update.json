@@ -1,6 +1,6 @@
 {
-  "version_code": 2,
-  "version_name": "1.0",
-  "changelog": "Welcome to Xro Music! \ud83c\udfb5\n\nThank you for being an early user. We are glad to have you on board.\n\nStay tuned \u2014 exciting updates are coming soon from ULTRAXAS.",
-  "download_url": "https://github.com/xason0/xromusic-updates/releases/download/v1.1-test/xromusic.apk"
+  "version_code": 3,
+  "version_name": "1.2",
+  "changelog": "Xro Music v1.2\n\n\u2022 Push notifications \u2014 receive messages from ULTRAXAS directly in your notification bar\n\u2022 Auto-checks for new messages every 15 minutes\n\u2022 Starts automatically after device reboot",
+  "download_url": "https://github.com/xason0/xromusic-updates/releases/download/v1.2/xromusic.apk"
 }
