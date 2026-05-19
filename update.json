@@ -1,6 +1,6 @@
 {
-  "version_code": "11",
-  "version_name": "2.0",
-  "changelog": "Xro Music v2.0\n\n• Notifications work automatically — no permission dialog required\n• Update notifications when a new version is available\n• Improved background service reliability",
-  "download_url": "https://github.com/xason0/xromusic-updates/releases/download/v2.0/xromusic.apk"
+  "version_code": "12",
+  "version_name": "2.1",
+  "changelog": "Xro Music v2.1\n\n• Neon equalizer visualizer on player screen\n• Video player fullscreen fix\n• Push notifications with instant delivery\n• Faster notification polling (no delays)",
+  "download_url": "https://github.com/xason0/xromusic-updates/releases/download/v2.1/xromusic.apk"
 }
