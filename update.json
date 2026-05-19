@@ -1,6 +1,6 @@
 {
-  "version_code": 5,
-  "version_name": "1.4",
-  "changelog": "Xro Music v1.4\n\n\u2022 Fixed notification permission dialog on first open\n\u2022 Welcome notification now delivers reliably\n\u2022 Stability improvements",
-  "download_url": "https://github.com/xason0/xromusic-updates/releases/download/v1.4/xromusic.apk"
+  "version_code": 6,
+  "version_name": "1.5",
+  "changelog": "Xro Music v1.5\n\n\u2022 Fixed notification permission dialog on more devices\n\u2022 Notification reliability improvements",
+  "download_url": "https://github.com/xason0/xromusic-updates/releases/download/v1.5/xromusic.apk"
 }
